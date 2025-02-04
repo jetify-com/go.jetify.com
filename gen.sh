@@ -38,6 +38,7 @@ module axiom axiom api        # go.jetify.com/axiom/api
 module axiom axiom launchpad  # go.jetify.com/axiom/launchpad
 module axiom axiom opensource # go.jetify.com/axiom/opensource
 module axiom axiom pkg        # go.jetify.com/axiom/pkg
+module axiom axiom testpilot  # go.jetify.com/axiom/testpilot
 module devbox                 # go.jetify.com/devbox
 module envsec                 # go.jetify.com/envsec
 module launchpad              # go.jetify.com/launchpad
