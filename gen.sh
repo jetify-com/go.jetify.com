@@ -31,6 +31,7 @@ module() {
 
 # module <repo_name> [module_root] [module_subdir]
 
+module ai                     # go.jetify.com/ai
 # The axiom root is not a real module, but it's needed to make modules in
 # subdirectories work.
 module axiom                  # go.jetify.com/axiom
