@@ -44,5 +44,6 @@ module devbox                 # go.jetify.com/devbox
 module envsec                 # go.jetify.com/envsec
 module launchpad              # go.jetify.com/launchpad
 module pkg                    # go.jetify.com/pkg
+module sse                    # go.jetify.com/sse
 module typeid-go typeid       # go.jetify.com/typeid
 module tyson                  # go.jetify.com/tyson
